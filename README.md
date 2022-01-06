@@ -1,3 +1,5 @@
+ANYTHING
+
 # Guessing Game
 
 The user tries to guess a word while having a certain amount of tries.  
